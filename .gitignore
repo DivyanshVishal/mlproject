@@ -223,3 +223,6 @@ venv/
 .venv/
 env/
 py3.13/
+
+#Ignore VS Code configuration folder
+.vscode/
