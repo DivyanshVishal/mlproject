@@ -1,0 +1,37 @@
+# Virtual environments
+py3.13/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Git
+.git/
+.gitignore
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+notebook/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
